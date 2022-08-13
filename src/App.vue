@@ -21,7 +21,7 @@ export default {
     TodoFooter,
     TodoHeader,
     TodoMain
-  },
+  },  
 
   created() {
 
